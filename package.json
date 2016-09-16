@@ -1,0 +1,22 @@
+{
+  "name": "svm-multiclass-utils",
+  "version": "1.0.0",
+  "description": "node aplications for use with svm classifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mespinozas/svm-multiclass-utils.git"
+  },
+  "keywords": [
+    "svm"
+  ],
+  "author": "mespinozas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mespinozas/svm-multiclass-utils/issues"
+  },
+  "homepage": "https://github.com/mespinozas/svm-multiclass-utils#readme"
+}
